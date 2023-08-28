@@ -1,2 +1,2 @@
-# prereq_map
-Visualize the prerequites from the GWU bulletin.
+# concept_map
+Organization, visualization, and time allocation for class concept maps
